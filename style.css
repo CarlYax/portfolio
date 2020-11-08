@@ -25,6 +25,10 @@ h1 {
   
 }
 
+h2 {
+  color:black;
+}
+
 h3 {
   padding-bottom:25px;
   text-align: center;
@@ -43,6 +47,10 @@ main h4 {
 
 footer {
   background-color: lightgray;
+}
+
+footer p {
+  text-align:center;
 }
 
 a:link{
