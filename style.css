@@ -1,12 +1,16 @@
-
 header img{
-  max-width:10%;
+  max-width:15%;
   height:auto;
   }
 
-header {
-  background-color:grey;
-  text-align:center;
+  header {
+      background-color: lightgrey;
+  }
+
+main {
+  background-color:lightyellow;
+  color:royalblue;
+  font-size: 15px;
 }
 
 .center {
@@ -15,3 +19,41 @@ header {
   margin-right:auto;
 }
 
+h1 {
+  padding:10px;
+  text-align: center;
+  
+}
+
+h3 {
+  padding-bottom:25px;
+  text-align: center;
+  font-family: serif;
+  font-style: italic;
+}
+
+.nat {
+  max-width:25%;
+  height:auto;
+}
+
+main h4 {
+  text-align: center;
+}
+
+footer {
+  background-color: lightgray;
+}
+
+a:link{
+  color:blue;
+}
+a:visited{
+  color:red;
+}
+a:hover{
+  color:yellow;
+}
+a:active{
+  color:greenyellow;
+}
