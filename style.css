@@ -36,6 +36,11 @@ h3 {
   height:auto;
 }
 
+.term {
+  max-width:auto;
+  height:auto;
+}
+
 .ctr {
   text-align: center;
 }
