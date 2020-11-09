@@ -40,6 +40,11 @@ h3 {
   text-align: center;
 }
 
+.rt {
+  text-align:right;
+  margin-right:15px;
+}
+
 header, footer {
   background-color: lightgray;
   text-align: center;
