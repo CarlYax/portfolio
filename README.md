@@ -1,2 +1,2 @@
 # portfolio
-My online portfoliio
+My online portfolio
