@@ -1,69 +1,69 @@
-header img{
-  max-width:15%;
-  height:auto;
-  }
+header img{ /*img located in the header*/
+  max-width:15%;/*set maximum width*/
+  height:auto;/*set height*/
+  }/*close style*/
 
- main {
-  background-color:lightyellow;
-  color:royalblue;
-  font-size: 15px;
-}
+ main {/*style for main*/
+  background-color:lightyellow;/*set bg color*/
+  color:royalblue;/*set text color*/
+  font-size: 15px;/*set text size*/
+}/*close style*/
 
-.center {
-  display:block;
-  margin-left:auto;
-  margin-right:auto;
-}
+.center {/*style for specific class*/
+  display:block;/*set display*/
+  margin-left:auto;/*set l margin*/
+  margin-right:auto;/*set r margin*/
+}/*close style*/
 
-h1 {
-  padding:10px;
-  text-align: center; 
-}
+h1 {/*style for primary heading*/
+  padding:10px;/*set padding*/
+  text-align: center; /*center text*/
+}/*close style*/
 
-h2 {
-  color:black;
-}
+h2 {/*style for secondary heading*/
+  color:black;/*text color, to overide main style*/
+}/*close style*/
 
-h3 {
-  padding-bottom:25px;
-  text-align: center;
-  font-family: serif;
-  font-style: italic;
-}
+h3 {/*style for tertiary heading*/
+  padding-bottom:25px;/*set padding*/
+  text-align: center;/*center text*/
+  font-family: serif;/*set font type*/
+  font-style: italic;/*text in italic*/
+}/*close style*/
 
-.nat {
-  max-width:25%;
-  height:auto;
-}
+.nat {/*style for specific class*/
+  max-width:25%;/*set width*/
+  height:auto;/*set height*/
+}/*close style*/
 
-.term {
-  max-width:100%;
-  height:auto;
-}
+.term {/*style for specific class*/
+  max-width:100%;/*set width*/
+  height:auto;/*set height*/
+}/*close style*/
 
-.ctr {
-  text-align: center;
-}
+.ctr {/*class style for centering*/
+  text-align: center;/*centers text*/
+}/*close style*/
 
-.rt {
-  text-align:right;
-  margin-right:15px;
-}
+.rt {/*class style for rt align*/
+  text-align:right;/*sets text to rt*/
+  margin-right:15px;/*adds margin on rt*/
+}/*close style*/
 
-header, footer {
-  background-color: lightgray;
-  text-align: center;
-}
+header, footer {/*style used by multiple elements*/
+  background-color: lightgray;/*sets bg color*/
+  text-align: center;/*centers text*/
+}/*close style*/
 
-a:link{
-  color:blue;
-}
-a:visited{
-  color:red;
-}
-a:hover{
-  color:green;
-}
-a:active{
-  color:greenyellow;
-}
+a:link{/*style for unclicked link*/
+  color:blue;/*set color*/
+}/*close style*/
+a:visited{/*style for clicked link*/
+  color:red;/*set color*/
+}/*close style*/
+a:hover{/*style for hovering*/
+  color:green;/*set color*/
+}/*close style*/
+a:active{/*style for being clicked*/
+  color:greenyellow;/*set color*/
+}/*close style*/
